@@ -1,0 +1,8 @@
+{
+  "name": "mkp-picker",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "a666b485"
+}

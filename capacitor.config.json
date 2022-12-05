@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "mkp-picker",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
